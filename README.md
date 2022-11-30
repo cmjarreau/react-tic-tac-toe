@@ -7,3 +7,10 @@ This is a sample tic tac toe game written in React that covers the following mai
 - Indicates when a player has won the game
 - Stores the game's history as a game progresses
 - Allows players to review game's history and see previous versions of the game's board
+
+To Play (run locally):
+- clone repo
+- npm install
+- npm start
+
+*if app fails to start, remove node_modules and re-run npm install, npm start
