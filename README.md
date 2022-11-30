@@ -12,5 +12,6 @@ To Play (run locally):
 - clone repo
 - npm install
 - npm start
+- game is running on http://localhost:3000. open this URL in browser to play
 
 *if app fails to start, remove node_modules and re-run npm install, npm start
